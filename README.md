@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## Meta
 
-Deepak Yadav – [@YourTwitter](https://twitter.com/dky7376) – dky.united@gmail.com
+Deepak Yadav – [@imdeepak_dky](https://twitter.com/imdeepak_dky) – dky.united@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
