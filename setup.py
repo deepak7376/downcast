@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="downcast", # Replace with your own username
-    version="0.0.6",
+    version="0.0.7",
     author="dky",
     author_email="dky.united@gmail.com",
     description="Reduce the pandas dataframe size automatically.",

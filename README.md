@@ -3,7 +3,7 @@
 
 This is the test perform on [Jena dataset](https://www.kaggle.com/stytch16/jena-climate-2009-2016).
 
-![](https://github.com/deepak7376/downcast/blob/master/src/newplot.png)
+![](https://miro.medium.com/max/1400/1*zB5K4323rxwylr1v4OEJhw.png)
 
 ## Installation
 
@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 ## Release History
 
+* 0.0.7
+    * CHANGE: Readme fixed
 * 0.0.6
     * CHANGE: Tested version
 * 0.0.5
@@ -61,5 +63,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
+## References
+https://www.kaggle.com/anshuls235/time-series-forecasting-eda-fe-modelling
 
 
