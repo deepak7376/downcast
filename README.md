@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 ## Release History
 
+* 0.0.6
+    * CHANGE: Tested version
 * 0.0.5
     * CHANGE: work in progress
 
