@@ -1,10 +1,6 @@
 # downcast
 > Reduce the pandas dataframe size automatically.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 This is the test perform on [Jena dataset](https://www.kaggle.com/stytch16/jena-climate-2009-2016).
 
 ![](https://github.com/deepak7376/downcast/blob/master/src/newplot.png)

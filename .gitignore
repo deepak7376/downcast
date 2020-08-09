@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+jena_climate_2009_2016.csv
+.DS_Store
+.vscode/
 .Python
 build/
 develop-eggs/
