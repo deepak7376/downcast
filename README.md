@@ -7,7 +7,7 @@
 
 This is the test perform on [Jena dataset](https://www.kaggle.com/stytch16/jena-climate-2009-2016).
 
-![](https:https://github.com/deepak7376/downcast/tree/master/src/newplot.png?raw=true)
+![](https://github.com/deepak7376/downcast/blob/master/src/newplot.png)
 
 ## Installation
 
