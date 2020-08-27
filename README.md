@@ -1,3 +1,6 @@
+[![Downloads](https://pepy.tech/badge/downcast)](https://pepy.tech/project/downcast)
+[![Downloads](https://pepy.tech/badge/downcast/month)](https://pepy.tech/project/downcast/month)
+[![Downloads](https://pepy.tech/badge/downcast/week)](https://pepy.tech/project/downcast/week)
 # downcast
 > Reduce the pandas dataframe size automatically.
 
