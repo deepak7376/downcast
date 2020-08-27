@@ -30,7 +30,6 @@ df = pd.read_csv("PATH")
 df = reduce(df) 
 ```
 
-
 ## Development setup
 
 For local development setup
@@ -42,7 +41,8 @@ pip install -r requirements.txt
 ```
 
 ## Release History
-
+* 0.0.8
+    * CHANGE: added downloads stats
 * 0.0.7
     * CHANGE: Readme fixed
 * 0.0.6
